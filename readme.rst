@@ -5,6 +5,11 @@ CodeIgniter is an Stable Development Framework.We Build Any web sites Easily Usi
 So I Choose CodeIgniter For Develop This Newsportal Web Site. For Learning Purpose Newsportal is a 
 good Choice.Basically I Focus On Database Relational Management System And Logic.
 
+***********************
+Newsportal Web Address
+***********************
+http://raazu.com/news/
+
 *******************
 Release Information
 *******************
