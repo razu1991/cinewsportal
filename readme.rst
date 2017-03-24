@@ -1,29 +1,23 @@
 ###################
-What is CodeIgniter
+CodeIgniter Based Newsportal
 ###################
-
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+CodeIgniter is an Stable Development Framework.We Build Any web sites Easily Using This Framework.
+So I Choose CodeIgniter For Develop This Newsportal Web Site. For Learning Purpose Newsportal is a 
+good Choice.Basically I Focus On Database Relational Management System And Logic.
 
 *******************
 Release Information
 *******************
+CodeIgniter Version v3.1.2
+Newsportal Primary Version v1.0
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+***********************************
+Change Content and Add New Features
+***********************************
+Newsportal Have Two Section 1.Admin 2.User/Reader
+#Admin Change Any Content And Add New Category, News, Tags etc etc.
+#Admin Have 2 Types 1.Super Admin 2. Manager
+Some Function Blocked For Manager.
 
 *******************
 Server Requirements
@@ -39,15 +33,13 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Download This Project And Set Up Database Change Config File And Database File And Set Your Database Information
 
 *******
 License
 *******
 
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+Feel Free To Use Only For Learning Purpose.
 
 *********
 Resources
@@ -65,6 +57,6 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 ***************
 Acknowledgement
 ***************
+Actually I Develop This Newsportal But Any One Can Develop Or Change Something And Release Latest Version.All Are Welcome. 
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+
