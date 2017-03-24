@@ -33,7 +33,7 @@ issues, as well as missing features.
 Installation
 ************
 
-Download This Project And Set Up Database Change Config File And Database File And Set Your Database Information
+Download This Project And Import Database File From Database Folder. Change Config File And Database File And Set Your Database Information
 
 *******
 License
@@ -57,6 +57,6 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 ***************
 Acknowledgement
 ***************
-Actually I Develop This Newsportal But Any One Can Develop Or Change Something And Release Latest Version.All Are Welcome. 
+Actually I Develop This Newsportal But Any One Can Develop Or Change Something And Release Latest Version.All Developer Are Welcome. 
 
 
